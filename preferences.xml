@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <FavouriteFilm>Matrix</FavouriteFilm>
+  <FavouriteSeries>Supernatural</FavouriteSeries>
+  <FavouriteFood>Pizza</FavouriteFood>
+  <FavouriteSeason>Summer</FavouriteSeason>
+  <CountryForNextVisit>USA</CountryForNextVisit>
+</root>
