@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <ID>1</ID>
+  <Summary>Link of Privacy redirects to the Terms and Conditions Page when you click on it.</Summary>
+  <STR>1. Click the Privacy link.</STR>
+  <AR>The warning that it will be The Terms and Conditions page soon.</AR>
+  <ER>The page of Privacy opens.</ER>
+  <Severity>Minor</Severity>
+  <Priority>Normal</Priority>
+</root>
